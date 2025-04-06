@@ -1,6 +1,6 @@
 # 4. HTML and Time in JavaScript ⏰
 
-[<- Back to Main Note](./README.md) | [Next: Export and Import ->](./05-export-import.md)
+[<- Back to Loop Methods and REST API Development](./03-loop-methods.md) | [Next: Export and Import ->](./05-export-import.md)
 
 ## Table of Contents
 

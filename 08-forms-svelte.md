@@ -1,6 +1,6 @@
 # 8. Forms and Introduction to Svelte 📝
 
-[<- Back to Main Note](./README.md) | [Next: Svelte Components ->](./09-svelte-components.md)
+[<- Back to Server-side Rendering and Routers](./07-ssr-routers.md) | [Next: Svelte Components ->](./09-svelte-components.md)
 
 ## Table of Contents
 

@@ -1,6 +1,6 @@
 # 9. Svelte Components and Data Flow 🧩
 
-[<- Back to Main Note](./README.md) | [Next: Security and Middleware ->](./10-security-middleware.md)
+[<- Back to Forms and Introduction to Svelte](./08-forms-svelte.md) | [Next: Middleware and Security ->](./10-middleware-security.md)
 
 ## Table of Contents
 
@@ -920,4 +920,4 @@ For when you need to wait for the DOM to update:
 
 ---
 
-[<- Back to Main Note](./README.md) | [Next: Security and Middleware ->](./10-security-middleware.md)
+[<- Back to Main Note](./README.md) | [Next: Middleware and Security ->](./10-middleware-security.md)

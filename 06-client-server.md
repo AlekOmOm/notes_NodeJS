@@ -1,6 +1,6 @@
 # 6. Client vs. Server in Web Development 🔐
 
-[<- Back to Main Note](./README.md) | [Next: Server-side Rendering ->](./07-ssr-routers.md)
+[<- Back to Export and Import in JavaScript ](./05-export-import.md) | [Next: Server-side Rendering ->](./07-ssr-routers.md)
 
 ## Table of Contents
 

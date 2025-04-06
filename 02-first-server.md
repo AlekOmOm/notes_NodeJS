@@ -1,6 +1,6 @@
 # 2. First Server with Node.js 📦
 
-[<- Back to Main Note](./README.md) | [Next: Loop Methods ->](./03-loop-methods.md)
+[<- Back to Introduction to Node.js](./01-introduction.md) | [Next: Loop Methods ->](./03-loop-methods.md)
 
 ## Table of Contents
 

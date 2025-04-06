@@ -1,6 +1,6 @@
 # 5. Export and Import in JavaScript 📤
 
-[<- Back to Main Note](./README.md) | [Next: Client vs. Server ->](./06-client-server.md)
+[<- Back to HTML and Time in JavaScript](./04-html-time.md) | [Next: Client vs. Server ->](./06-client-server.md)
 
 ## Table of Contents
 
