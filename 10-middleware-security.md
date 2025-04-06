@@ -1,6 +1,6 @@
 # 10. Middleware and Security in Express 🛡️
 
-[<- Back to Main Note](./README.md)
+[Back to Svelte Components and Data Flow](./09-svelte-components.md) | [Back Home ->](./README.md) 
 
 ## Table of Contents
 

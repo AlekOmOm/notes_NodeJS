@@ -1,6 +1,6 @@
 # 9. Svelte Components and Data Flow 🧩
 
-[<- Back to Main Note](./README.md) | [Next: Middleware and Security ->](./10-middleware-security.md)
+[<- Back to Forms and Introduction to Svelte](./08-forms-svelte.md) | [Next: Middleware and Security ->](./10-middleware-security.md)
 
 ## Table of Contents
 

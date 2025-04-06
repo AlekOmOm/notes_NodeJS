@@ -1,6 +1,6 @@
 # 7. Server-side Rendering and Routers 🖥️
 
-[<- Back to Main Note](./README.md) | [Next: Forms and Svelte ->](./08-forms-svelte.md)
+[<- Back to Client vs. Server in Web Development](./06-client-server.md) | [Next: Forms and Svelte ->](./08-forms-svelte.md)
 
 ## Table of Contents
 

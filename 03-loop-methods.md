@@ -1,6 +1,6 @@
 # 3. Loop Methods and REST API Development 🔄
 
-[<- Back to Main Note](./README.md) | [Next: HTML and Time ->](./04-html-time.md)
+[<- Back to First Server with Node.js](./02-first-server.md) | [Next: HTML and Time ->](./04-html-time.md)
 
 ## Table of Contents
 

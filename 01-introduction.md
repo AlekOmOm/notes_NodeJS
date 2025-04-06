@@ -1,6 +1,6 @@
 # 1. Introduction to Node.js 🌟
 
-[<- Back to Main Note](./README.md) | [Next: First Server ->](./02-first-server.md)
+[<- Back to Home](./README.md) | [Next: First Server ->](./02-first-server.md)
 
 ## Table of Contents
 
