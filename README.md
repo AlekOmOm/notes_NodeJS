@@ -58,7 +58,7 @@ This collection of notes provides a comprehensive guide to understanding Node.js
    - Svelte stores
    - State management
 
-10. **[Security and Middleware](./10-security-middleware.md)** 🛡️
+10. **[Middleware and Security](./10-middleware-security.md)** 🛡️
     - Custom Express middleware
     - Rate limiting
     - Authentication (JWT and sessions)
