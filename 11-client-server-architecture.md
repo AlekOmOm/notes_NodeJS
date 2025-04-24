@@ -10,6 +10,7 @@
 - [Data Flow and Communication](#data-flow-and-communication)
 - [State Management](#state-management)
 - [Server-Side Rendering](#server-side-rendering)
+- [Sub-Notes](#sub-notes)
 
 ## Project Structure Overview
 
@@ -145,6 +146,8 @@ Svelte offers two approaches to state management, both used in the Medicine proj
    export const BASE_URL = readable(import.meta.env.VITE_BASE_URL || "http://localhost:8080");
    ```
 
+For more details on Svelte's implementation in full-stack applications, see [Svelte in Full-Stack Applications](./11a-svelte-in-fullstack.md).
+
 ## Server-Side Variants
 
 The Medicine project includes two server implementations, demonstrating different approaches to backend architecture.
@@ -217,6 +220,8 @@ app.get("/{*splat}", (req, res) => {
 const PORT = Number(process.env.PORT) || 8080;
 app.listen(PORT, () => console.log("Server is running on port", PORT));
 ```
+
+For more details on Express.js backend patterns, see [Express.js Backend Patterns](./11b-express-backend-patterns.md).
 
 ## Data Flow and Communication
 
@@ -406,23 +411,17 @@ app.get("/{*splat}", (req, res) => {
 3. **Better Performance on Low-Powered Devices**: Less client-side processing
 4. **Improved Accessibility**: Content available without JavaScript
 
-### Build Pipeline for SSR
+For more advanced SSR techniques and patterns, see [Server-Side Rendering Techniques](./11c-server-side-rendering-techniques.md).
 
-The client includes a special build-watch script for development:
+## Sub-Notes
 
-```json
-// client/package.json
-{
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "build-watch": "vite build --watch",
-    "preview": "vite preview"
-  }
-}
-```
+For more detailed information on specific aspects of client-server architecture, refer to these sub-notes:
 
-This watches for changes and rebuilds the client automatically, which is then immediately picked up by the SSR server.
+- [11a. Svelte in Full-Stack Applications](./11a-svelte-in-fullstack.md): Detailed exploration of Svelte components, reactivity, and integration with backend services.
+  
+- [11b. Express.js Backend Patterns](./11b-express-backend-patterns.md): In-depth look at Express.js patterns including middleware, routing, and error handling.
+  
+- [11c. Server-Side Rendering Techniques](./11c-server-side-rendering-techniques.md): Comprehensive guide to SSR implementation, benefits, challenges, and optimization.
 
 ## Key Takeaways
 
