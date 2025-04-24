@@ -64,6 +64,13 @@ This collection of notes provides a comprehensive guide to understanding Node.js
     - Authentication (JWT and sessions)
     - Password hashing with bcrypt
 
+11. **[Client-Server Architecture](./11-client-server-architecture.md)** 🏗️
+    - Project structure organization
+    - Client-side (Svelte) implementation
+    - Server-side variants (Express)
+    - Data flow and communication 
+    - Server-side rendering benefits
+
 ---
 
 _(These notes are designed for web developers with basic JavaScript knowledge who want to build full-stack applications with Node.js and modern frameworks.)_
