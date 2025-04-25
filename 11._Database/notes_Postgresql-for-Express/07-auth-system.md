@@ -2,6 +2,11 @@
 
 [<- Back: PostgreSQL Features](./06-postgresql-features.md) | [Next: Docker Deployment ->](./08-docker-deployment.md)
 
+---
+- [7a. Authentication Server with Docker Compose](./07a-auth-docker-compose.md) 
+- [7b. Simple Authentication Server with Docker Compose](./07b-auth-docker-compose-simple.md) 
+---
+
 ## Table of Contents
 
 - [Database Schema](#database-schema)
