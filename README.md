@@ -6,13 +6,13 @@ This collection of notes provides a comprehensive guide to understanding Node.js
 
 ## Learning Path
 
-1. **[Introduction to Node.js](./01-introduction.md)** 🌟
+1. **[Introduction to Node.js](./00._Notes/01-introduction.md)** 🌟
    - What is Node.js?
    - Variables and data types
    - REST API conventions
    - Clean code principles
 
-2. **[First Server](./02-first-server.md)** 📦
+2. **[First Server](./00._Notes/02-first-server.md)** 📦
    - Code conventions and clean code
    - Functions and callbacks
    - Express.js basics
