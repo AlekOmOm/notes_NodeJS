@@ -18,53 +18,53 @@ This collection of notes provides a comprehensive guide to understanding Node.js
    - Express.js basics
    - Package management with npm
 
-3. **[Loop Methods](./03-loop-methods.md)** 🔄
+3. **[Loop Methods](./00._Notes/03-loop-methods.md)** 🔄
    - Functional programming with arrays
    - Building CRUDable REST APIs
    - URL anatomy
    - Serving HTML with Express
 
-4. **[HTML and Time](./04-html-time.md)** ⏰
+4. **[HTML and Time](./00._Notes/04-html-time.md)** ⏰
    - Working with Date in JavaScript
    - Deployment strategies
    - Fetch API for client-server communication
 
-5. **[Export and Import](./05-export-import.md)** 📤
+5. **[Export and Import](./00._Notes/05-export-import.md)** 📤
    - Module systems in JavaScript
    - CommonJS vs. ES Modules
    - Static file serving
    - Client vs. server-side redirection
 
-6. **[Client vs. Server](./06-client-server.md)** 🔐
+6. **[Client vs. Server](./00._Notes/06-client-server.md)** 🔐
    - Environment variables
    - Package.json scripts
    - Fetching in Node.js
    - Semantic HTML
 
-7. **[Server-side Rendering](./07-ssr-routers.md)** 🖥️
+7. **[Server-side Rendering](./00._Notes/07-ssr-routers.md)** 🖥️
    - SSR vs. client-side rendering
    - File operations
    - Express Routers
    - Code structure optimization
 
-8. **[Forms and Svelte](./08-forms-svelte.md)** 📝
+8. **[Forms and Svelte](./00._Notes/08-forms-svelte.md)** 📝
    - HTML forms
    - Introduction to Svelte
    - Cross-site scripting (XSS) prevention
 
-9. **[Svelte Components](./09-svelte-components.md)** 🧩
+9. **[Svelte Components](./00._Notes/09-svelte-components.md)** 🧩
    - Component hierarchies
    - Data passing patterns
    - Svelte stores
    - State management
 
-10. **[Middleware and Security](./10-middleware-security.md)** 🛡️
+10. **[Middleware and Security](./00._Notes/10-middleware-security.md)** 🛡️
     - Custom Express middleware
     - Rate limiting
     - Authentication (JWT and sessions)
     - Password hashing with bcrypt
 
-11. **[Client-Server Architecture](./11-client-server-architecture.md)** 🏗️
+11. **[Client-Server Architecture](./00._Notes/11-client-server-architecture.md)** 🏗️
     - Project structure organization
     - Client-side (Svelte) implementation
     - Server-side variants (Express)
